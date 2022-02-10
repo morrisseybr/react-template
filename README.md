@@ -12,7 +12,7 @@ Bibliotecas:
 
 ### Comandos básicos do dev
 
-  yarn dev - Inicia o servidor de desenvolvimento
-  yarn storybook - Inicia o Storybook
-  yarn build - Gera os arquivos para produção
+  - yarn dev - Inicia o servidor de desenvolvimento
+  - yarn storybook - Inicia o Storybook
+  - yarn build - Gera os arquivos para produção
 
