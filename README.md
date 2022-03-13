@@ -2,6 +2,10 @@
 
 Template básico de projeto React utilizando Vite.
 
+Funcionalidades:
+ - Acesso ao Core por Context
+ - Modal utilizando Context e Portal
+
 Bibliotecas:
  - TypeScript
  - React
